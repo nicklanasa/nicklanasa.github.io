@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'nicklanasa.com',
+  url: 'https://nicklanasa.com',
   pathPrefix: '/',
   title: 'Nickolas Lanasa brain dump',
   subtitle: '',
