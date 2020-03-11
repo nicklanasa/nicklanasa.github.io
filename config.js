@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Nickolas Lanasa',
-    photo: '/photo.jpeg',
+    photo: '/photo.jpg',
     bio: 'Father. Son. Brother. Uncle. Engineer @ Johnson & Johnson',
     contacts: {
       email: '',
