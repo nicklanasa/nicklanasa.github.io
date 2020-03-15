@@ -17,7 +17,7 @@ Purchase or preview here: [WAY OF THE WARRIOR KID](https://amzn.to/2TS4ig4)
 
 As a father, the idea of a **Warrior Kid** is something that I find rather interesting but felt like it wouldn't be very fun for the kid. As a kid, you want to have fun and acting like a warrior sounds it wouldn't be the first choice for any kid. Forunately, after reading this book, I'm fully endorsing that every kid should be warrior kid and eventually, they will realize that too. Let me explain. 
 
-This book is all about a kid named Marc that was having a hard time at school. He felt weak, unintelligent and was often bullied by the "bigger" kid Kenny. One particular part in the book that stands out was when all the kids in his gym class had to do 10 pullups in front of the entire class. Most of the kids could do more than one but Marc couldn't do any. This did not help his self esteem and also gave the bully Kenny more ammunition. 
+This book is all about a kid named Marc that was having a hard time at school. He felt weak, unintelligent and was often bullied by the "bigger" kid Kenny. One particular part in the book that stood out was when all the kids in his gym class had to do 10 pullups in front of the entire class. Most of the kids could do more than one but Marc couldn't do any. This did not help his self esteem and also gave the bully Kenny more ammunition. 
 
 When the school year ended, Marc was not feeling so great about himself. He felt alone and not capable of doing anything to prevent the problems he had at school but little did he know this was all about to change. His Navy Seal Uncle Jake came to visit for the summer, who was about to give Marc a whole new outlook on his life and obstacles he encountered. 
 
@@ -27,7 +27,7 @@ Marc was clearly impressed with Uncle Jake because he looked like he had everyth
 
 It all started with explaining to Marc that he needed a _code_. A _code_ for himself to live by, just like the Navy Seals had and countless other warriors in history. Over the course of the summer, Marc would learn many lesson that would turn into his own _code_. This concept of a _code_ was particular eye opening for me. Being a professional software engineer, working with code is something that truly enjoy doing so developing my own code that I would live by was something I definitely wanted to do. Especially, because I wanted to set great example for my daughter.
 
-> I realized that to be best person I wanted to, I needed to developed my own code to live by. This was obviously essential for teaching my daugher that she could be the best person she wanted to be by developing her own code. Leading by example, parenting 101. Duh.
+> I realized that to be best person I wanted to be, I needed to developed my own code to live by. This was obviously essential for teaching my daugher that she could be the best person she wanted to be by developing her own code. Leading by example, parenting 101. Duh.
 
 So, one by one, Uncle Jake took Marc's problem and showed him tactics that he could use to solve them. Couldn't do 10 pullups, Uncle Jake and Marc started to **wake up early** and **workout**. Eventually, Marc got strong enough to do more pullups than he thought he could ever do.
 
