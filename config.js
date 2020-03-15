@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://nicklanasa.com',
   pathPrefix: '/',
-  title: 'Nickolas Lanasa brain dump',
+  title: 'A blog by Nickolas Lanasa',
   subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
