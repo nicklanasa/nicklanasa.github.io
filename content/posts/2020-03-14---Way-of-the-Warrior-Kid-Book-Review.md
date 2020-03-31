@@ -27,7 +27,7 @@ Marc was clearly impressed with Uncle Jake because he looked like he had everyth
 
 It all started with explaining to Marc that he needed a _code_. A _code_ for himself to live by, just like the Navy Seals had and countless other warriors in history. Over the course of the summer, Marc would learn many lesson that would turn into his own _code_. This concept of a _code_ was particular eye opening for me. Being a professional software engineer, working with code is something that I truly enjoy doing so developing my own code that I would live by was something I definitely wanted to do. Especially, because I wanted to set great example for my daughter.
 
-> I realized that to be best person I wanted to be, I needed to developed my own code to live by. This was obviously essential for teaching my daugher that she could be the best person she wanted to be by developing her own code. Leading by example, parenting 101. Duh.
+> I realized that to be best person I wanted to be, I needed to developed my own code to live by. This was obviously essential for teaching my daughter that she could be the best person she wanted to be by developing her own code. Leading by example, parenting 101. Duh.
 
 So, one by one, Uncle Jake took Marc's problem and showed him tactics that he could use to solve them. Couldn't do 10 pullups, Uncle Jake and Marc started to **wake up early** and **workout**. Eventually, Marc got strong enough to do more pullups than he thought he could ever do.
 
