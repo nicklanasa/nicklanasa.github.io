@@ -23,9 +23,9 @@ I use [Beorg on iOS](https://beorgapp.com) to maintain my agenda and capture tas
 
 Everything works fine with syncing files up to Dropbox when things change but to get emacs on the desktop to update automagically, you'll need the following settings in your emacs config turned on.
 
-[Auto save mode](https://www.gnu.org/software/emacs/manual/html_node/elisp/Auto_002dSaving.html) is used to save files in the background when you don't save them explicitly. This is critical when you change an org file on your desktop that you want to sync to [Beorg](https://beorgapp.com).
+[Auto save visited mode](https://www.gnu.org/software/emacs/manual/html_node/emacs/Auto-Save-Control.html) is used to save files in the background when you don't save them explicitly. This is critical when you change an org file on your desktop that you want to sync to [Beorg](https://beorgapp.com).
 ```
-(auto-save-mode t)
+(auto-save-visited-mode t)
 ```
 
 [Auto revert mode](https://www.gnu.org/software/emacs/manual/html_node/emacs/Reverting.html) is used when you change an org file in [Beorg](https://beorgapp.com) that you want emacs on the desktop to automagically reload in the background. 
